@@ -2,7 +2,7 @@
 
 A dark-first Obsidian theme from [AwareAI](https://awareai.io): deep navy surfaces, an AwareAI-red accent, and the "Signal" accent palette for callouts, tags, and syntax. A light variant keeps the red accent over warm off-white.
 
-![AwareAI theme screenshot](screenshot.jpg)
+![AwareAI theme screenshot](screenshot.png)
 
 ## Install (manual)
 
