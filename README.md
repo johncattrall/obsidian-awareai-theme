@@ -1,6 +1,6 @@
 # AwareAI — Obsidian theme
 
-A dark-first Obsidian theme built from the [AwareAI Design System](https://claude.ai/design/p/82f75543-4650-40b1-9530-6ec706c0f34d): deep navy surfaces, an AwareAI-red accent, and the "Signal" accent palette for callouts, tags, and syntax. A light variant keeps the red accent over warm off-white.
+A dark-first Obsidian theme from [AwareAI](https://awareai.io): deep navy surfaces, an AwareAI-red accent, and the "Signal" accent palette for callouts, tags, and syntax. A light variant keeps the red accent over warm off-white.
 
 ![AwareAI theme screenshot](screenshot.jpg)
 
@@ -13,13 +13,7 @@ A dark-first Obsidian theme built from the [AwareAI Design System](https://claud
 
 ## Fonts
 
-The theme uses **Plus Jakarta Sans** (interface + text) and **JetBrains Mono** (code) when they are installed on your system, falling back to system fonts otherwise.
-
-To bundle Plus Jakarta Sans with the theme:
-
-1. Create a `fonts/` folder beside `theme.css`.
-2. Drop in the `.ttf` files (`PlusJakartaSans-Regular.ttf`, `-Medium`, `-SemiBold`, `-Bold`, `-ExtraBold`).
-3. Uncomment the `@font-face` block at the top of `theme.css`.
+The theme uses Plus Jakarta Sans for text and JetBrains Mono for code when installed, falling back to system fonts otherwise. To bundle Plus Jakarta Sans, drop its `.ttf` files into a `fonts/` folder beside `theme.css` and uncomment the `@font-face` block at the top of `theme.css`.
 
 ## Token mapping
 
